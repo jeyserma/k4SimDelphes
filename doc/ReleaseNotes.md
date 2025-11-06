@@ -1,3 +1,15 @@
+# v00-07-06
+
+* 2025-09-23 Juan Miguel Carceller ([PR#150](https://github.com/key4hep/k4SimDelphes/pull/150))
+  - Same as https://github.com/key4hep/EDM4hep/pull/445, remove it since it is not supported
+
+* 2025-06-02 Thomas Madlener ([PR#147](https://github.com/key4hep/k4SimDelphes/pull/147))
+  - Switch to the key4hep nightlies environment to run pre-commit
+
+* 2025-06-02 jmcarcell ([PR#146](https://github.com/key4hep/k4SimDelphes/pull/146))
+  - Move DataHandle and MetaDataHandle to the k4FWCore namespace, done in k4FWCore in https://github.com/key4hep/k4FWCore/pull/317
+  - Bump the required version of k4FWCore
+
 # v00-07-05
 
 * 2025-02-14 jmcarcell ([PR#145](https://github.com/key4hep/k4SimDelphes/pull/145))
